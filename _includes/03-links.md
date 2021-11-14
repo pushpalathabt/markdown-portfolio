@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+you ca check out
+(https://github.com/pushpalathabt/markdown-portfolio/pull/3)
